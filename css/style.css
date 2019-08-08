@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster|Montserrat&display=swap');
+
+html,body{
+    height: 100%;
+    overflow: hidden;
+    background: #ffe259;
+    background: var(--mango-gradient);
+}
+
+:root{
+    --primary-gradient: linear-gradient(to right, #4e4376, #2b5876);
+    --mango-gradient: linear-gradient(to right, #ffa751, #ffe259);
+}
